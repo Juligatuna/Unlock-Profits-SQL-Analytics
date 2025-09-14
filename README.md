@@ -85,4 +85,4 @@ Libraries: pandas, sqlalchemy, pymysql, matplotlib, seaborn, jupyter
 🙋 Author
 
 Julius Irungu
-🔗 LinkedIn Profile
+🔗 www.linkedin.com/in/julius-irungu-344519a8
