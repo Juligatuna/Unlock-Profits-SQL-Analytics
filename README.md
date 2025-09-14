@@ -4,18 +4,17 @@ A project that cleans, analyzes, and visualizes e-commerce and finance data usin
 The aim is to unlock business insights from sales, expenses, stock, and international trade reports.
 
 ---
+```bash
 
 ## 🧰 Repository Structure
 
 Unlock-Profits-SQL-Analytics/
 ├── data/ # Raw CSV files
 ├── notebooks/ # Jupyter notebooks with SQL + pandas analysis
-├── sql/ # Saved SQL query files (optional)
-├── visuals/ # Generated charts & heatmaps
 ├── requirements.txt # Python dependencies
 └── README.md # Project overview
 
-
+```
 ---
 
 ## 🚀 What’s Inside
