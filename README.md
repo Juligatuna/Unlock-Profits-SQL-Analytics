@@ -1,7 +1,16 @@
 # Unlock Profits SQL Analytics
 
-A project that cleans, analyzes, and visualizes e-commerce and finance data using **SQL + Python**.  
-The aim is to unlock business insights from sales, expenses, stock, and international trade reports.
+This project explores a business dataset using SQL for data cleaning, transformation, and insight generation, followed by Power BI visualization to identify areas for profit optimization. The analysis covers sales trends, customer behavior, product performance, and regional profitability.
+
+Key Highlights:
+
+Performed data wrangling and complex SQL queries for KPIs
+
+Created DAX measures and dashboards in Power BI
+
+Uncovered hidden profit opportunities and cost bottlenecks
+
+Exported a clean data model for visualization and reporting
 
 ---
 ```bash
